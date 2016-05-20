@@ -1,0 +1,51 @@
+*{
+	/*margin: 0px;*/
+	box-sizing: border-box;
+
+}
+
+#top {
+		color: blue;
+		text-align:  center;
+}
+
+/*a:hover div:nth-child(5) {  */*/
+  /*font-size: 24px;*/
+  /*text-transform: 		*/
+/*}*/
+
+
+#nav{
+	list-style: none;
+
+}
+
+p {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size : 14px;
+	padding: 10px;
+	text-indent: 20px;
+	text-align: justify;
+}
+
+.sect{
+
+	width: 50%;
+	/*border: 1px solid black;*/
+	float: left;
+	padding: 10px;
+
+}
+
+#foot{
+
+	background-color: red;
+	/*position: absolute;*/
+	float: left;
+
+
+}
+
+#head{
+	background-color: red;	
+}
